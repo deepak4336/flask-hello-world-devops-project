@@ -172,3 +172,68 @@ clear
 python -m venv
 ls
 sudo -i
+ls
+docker images
+docker login
+vi Dockerfile
+docker login
+docker tag flask-hello-world deepakdileep/flask-hello-world
+docker tag flask-hello-world deepakdileep/flask-hello-world-project
+docker tag flask-hello-world-project deepakdileep/flask-hello-world-project
+docker push shivammitra/flask-hello-world
+docker push deepakdileep/flask-hello-world-project
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin main
+git add
+git add .
+clear
+git init
+git
+git help -a
+git --version
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git config --global user.email "deepakdileep123.com"
+git config --global user.email "deepakdileep123@gmail.com"
+git config --global user.name "deepak4336"
+git commit -m "Add flask hello world application, test cases and dockerfile"
+docker run -it -p 5000:5000 flask-hello-world
+docker run -it -p 5000:5000 flask-hello-world-project
+docker ps
+docker images
+docker run -it 5000:5000 b3e9834957e7
+
+docker ps
+docker run -it -p 5000:5000 flask-hello-world-project
+git --version
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git config --global user.name "deepak4336"
+git config --global user.email "deepakdileep4336@gmail.com"
+git config --global user.name "deepak4336"
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push orgin main
+git commit -m "initial commit"
+git push orgin main
+git commit -m "Add flask hello world project application, test cases and dockerfile"
+git push orgin main
+git add --all
+git commit -m "initial commit"
+git commit -m "Add flask hello world project application, test cases and dockerfile"
+git push orgin main
+docker run -it -p 5000:5000 flask-hello-world
+docker run -it -p 5000:5000 flask-hello-world-project
+docker run -it flask-hello-world pytest test.py
+docker run -it flask-hello-world-project pytest test.py
+docker run -it flask-hello-world flake8
+docker run -it flask-hello-world-project flake8
+docker ps
+docker run -it -p 5000:5000 flask-hello-world-project
+git add .
+docker images
+docker ps
+docker images
+docker run -it -p 5000:5000 flask-hello-world-project
+docker run -it -p 5000:5000 flask-hello-world-project &
