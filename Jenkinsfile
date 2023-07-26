@@ -3,7 +3,7 @@ pipeline {
   
    environment {
        DOCKER_HUB_REPO = "deepakdileep/flask-hello-world-project"
-       CONTAINER_NAME = "flask-hello-world-project"
+       CONTAINER_NAME = "flask-hello-world"
  
    }
   
