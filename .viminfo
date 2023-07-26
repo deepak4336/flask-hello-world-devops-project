@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1690361352,,"wq"
+|2,0,1690361526,,"wq"
 :qa
 |2,0,1690297623,,"qa"
 :q
@@ -36,36 +36,48 @@
 |3,1,36,0,1,0,1690100079,"a"
 
 # File marks:
-'0  6  49  ~/Jenkinfile
-|4,48,6,49,1690361352,"~/Jenkinfile"
-'1  6  41  ~/Jenkinfile
-|4,49,6,41,1690361295,"~/Jenkinfile"
-'2  5  37  ~/jenkinsfile
-|4,50,5,37,1690360658,"~/jenkinsfile"
-'3  20  21  ~/jenkins
-|4,51,20,21,1690360152,"~/jenkins"
+'0  9  1  ~/Jenkinsfile
+|4,48,9,1,1690361526,"~/Jenkinsfile"
+'1  6  49  ~/Jenkinfile
+|4,49,6,49,1690361352,"~/Jenkinfile"
+'2  6  41  ~/Jenkinfile
+|4,50,6,41,1690361295,"~/Jenkinfile"
+'3  5  37  ~/jenkinsfile
+|4,51,5,37,1690360658,"~/jenkinsfile"
 '4  20  21  ~/jenkins
-|4,52,20,21,1690360144,"~/jenkins"
-'5  1  0  ~/.ssh/id_rsa.pub
-|4,53,1,0,1690297623,"~/.ssh/id_rsa.pub"
-'6  2  24  ~/Dockerfile
-|4,54,2,24,1690210369,"~/Dockerfile"
-'7  2  22  ~/Dockerfile
-|4,55,2,22,1690210312,"~/Dockerfile"
-'8  6  23  ~/Dockerfile
-|4,56,6,23,1690208668,"~/Dockerfile"
+|4,52,20,21,1690360152,"~/jenkins"
+'5  20  21  ~/jenkins
+|4,53,20,21,1690360144,"~/jenkins"
+'6  1  0  ~/.ssh/id_rsa.pub
+|4,54,1,0,1690297623,"~/.ssh/id_rsa.pub"
+'7  2  24  ~/Dockerfile
+|4,55,2,24,1690210369,"~/Dockerfile"
+'8  2  22  ~/Dockerfile
+|4,56,2,22,1690210312,"~/Dockerfile"
 '9  6  23  ~/Dockerfile
 |4,57,6,23,1690208668,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  9  1  ~/Jenkinsfile
+|4,39,9,1,1690361526,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1690361467,"~/Jenkinsfile"
 -'  6  49  ~/Jenkinfile
 |4,39,6,49,1690361352,"~/Jenkinfile"
+-'  6  49  ~/Jenkinfile
+|4,39,6,49,1690361352,"~/Jenkinfile"
+-'  6  41  ~/Jenkinfile
+|4,39,6,41,1690361295,"~/Jenkinfile"
 -'  6  41  ~/Jenkinfile
 |4,39,6,41,1690361295,"~/Jenkinfile"
 -'  1  0  ~/Jenkinfile
 |4,39,1,0,1690361171,"~/Jenkinfile"
 -'  1  0  ~/Jenkinfile
 |4,39,1,0,1690361171,"~/Jenkinfile"
+-'  1  0  ~/Jenkinfile
+|4,39,1,0,1690361171,"~/Jenkinfile"
+-'  1  0  ~/Jenkinfile
+|4,39,1,0,1690361171,"~/Jenkinfile"
 -'  5  37  ~/jenkinsfile
 |4,39,5,37,1690360658,"~/jenkinsfile"
 -'  5  37  ~/jenkinsfile
@@ -74,6 +86,22 @@
 |4,39,5,37,1690360658,"~/jenkinsfile"
 -'  5  37  ~/jenkinsfile
 |4,39,5,37,1690360658,"~/jenkinsfile"
+-'  5  37  ~/jenkinsfile
+|4,39,5,37,1690360658,"~/jenkinsfile"
+-'  5  37  ~/jenkinsfile
+|4,39,5,37,1690360658,"~/jenkinsfile"
+-'  5  37  ~/jenkinsfile
+|4,39,5,37,1690360658,"~/jenkinsfile"
+-'  5  37  ~/jenkinsfile
+|4,39,5,37,1690360658,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1690360613,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1690360613,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1690360613,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1690360613,"~/jenkinsfile"
 -'  1  0  ~/jenkinsfile
 |4,39,1,0,1690360613,"~/jenkinsfile"
 -'  1  0  ~/jenkinsfile
@@ -99,6 +127,34 @@
 -'  20  21  ~/jenkins
 |4,39,20,21,1690360152,"~/jenkins"
 -'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360152,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
 |4,39,20,21,1690360144,"~/jenkins"
 -'  20  21  ~/jenkins
 |4,39,20,21,1690360144,"~/jenkins"
@@ -114,6 +170,42 @@
 |4,39,20,21,1690360144,"~/jenkins"
 -'  20  21  ~/jenkins
 |4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  20  21  ~/jenkins
+|4,39,20,21,1690360144,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
+-'  1  0  ~/jenkins
+|4,39,1,0,1690360017,"~/jenkins"
 -'  1  0  ~/jenkins
 |4,39,1,0,1690360017,"~/jenkins"
 -'  1  0  ~/jenkins
@@ -166,100 +258,17 @@
 |4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
 -'  1  0  ~/.ssh/id_rsa.pub
 |4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  1  0  ~/.ssh/id_rsa.pub
-|4,39,1,0,1690297623,"~/.ssh/id_rsa.pub"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
--'  2  24  ~/Dockerfile
-|4,39,2,24,1690210369,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/Jenkinsfile
+	*	1690361523	0
+	"	9	1
+	^	9	2
+	.	6	49
+	+	37	0
+	+	5	63
+	+	6	49
 
 > ~/Jenkinfile
 	*	1690361349	0
