@@ -237,3 +237,60 @@ docker ps
 docker images
 docker run -it -p 5000:5000 flask-hello-world-project
 docker run -it -p 5000:5000 flask-hello-world-project &
+docker ps
+docker image
+docker images
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin main
+git push main
+git push -u origin main
+git remote -v
+git push origin main
+ls ~/.ssh/id_rsa.pub
+ssh-keygen -t rsa -b 4096 -C "deepakdileep123@gmail.com"
+cat ~/.ssh/id_rsa.pub
+vi ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+git init
+git remote add origin https://github.com/deepak4336/flask-hello-world-devops-project.githttps://github.com/deepak4336/flask-hello-world-devops-project.git
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin main
+git push origin HEAD:main
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git commit -m "Add flask hello world project application, test cases and dockerfile"
+git push origin HEAD:main
+git push origin main
+git commit -m "Add flask hello world project application, test cases and dockerfile"
+\
+git push origin master
+git remote add origin https://github.com/deepak4336/flask-hello-world-devops-project.git
+git push origin master
+git push origin main
+git remote add origin https://github.com/deepak4336/flask-hello-world-devops-project.git
+
+git remote set-url origin --delete https://github.com/deepak4336/flask-hello-world-devops-project.githttps://github.com/deepak4336/flask-hello-world-devops-project.git
+git remote -v
+git remote set-url origin --delete https://github.com/deepak4336/flask-hello-world-devops-project.git
+git remote -v
+git remote set-url origin https://github.com/deepak4336/flask-hello-world-devops-project.git
+git remote -v
+git push origin main
+git remote -v
+git branch
+git push origin master
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin master
+git remote set-url origin git@github.com:deepak4336/flask-hello-world-devops-project.git
+git push origin master
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin master
+git add Dokerfile
+git add .
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin main
+git push origin master
+git commit -m "Add flask hello world application, test cases and dockerfile"
+git push origin master
+git push origin main
